@@ -6,4 +6,10 @@
 * [Linkedin](https://linkedin.com/in/vyacheslav-povkhleb-b6459a283)          
 * [Telegram](https://t.me/Vyacheslav_247)                               
 * [Githab](https://github.com/slawa-pro)                                                                        
-         
+### Skills:
+
+* ```HTML```, ```CSS```
+* ```JavaScript```, ```TypeScript```
+* ```React```
+* ```Git, Github```
+
