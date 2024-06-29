@@ -18,7 +18,6 @@
 ```2017-2022:```
   Military Air Force Academy named after Professor N. E. Zhukovsky and Y. A. Gagarin
   The topic of the diploma: Neural Networks.
-
 ```2021-2022:``` 
   It Git (course),
   JavaScript 2.0;
