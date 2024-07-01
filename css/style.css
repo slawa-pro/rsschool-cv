@@ -1,0 +1,17 @@
+@font-face{
+  font-family: 'Helvetica', sans-serif;
+  src: url(../assets/fonts/helvetica.woff2);
+  fount-style: normal;
+  font-weight: 400;
+}
+
+@font-face{
+  font-family: 'Helvetica-Bold', sans-serif;
+  src: url(../assets/fonts/helvetica-bold.woff2);
+  fount-style: normal;
+  font-weight: 700;
+}
+
+* {
+  box-sizing: border-box;
+}
