@@ -67,15 +67,13 @@ body {
 
 .nav-link:hover {
   transition: 0.1s;
-  background: linear-gradient(180deg, #bc10d8 0%, rgba(80, 0, 250, 0.93) 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  text-decoration: underline;
 }
 /*----- style header ------*/
 .header {
   border-radius: 3rem;
   background: linear-gradient(45deg, #76e9ad, #f9ffd1);
-}
+} 
 /*----- style section ------*/
 .section {
   font-family: "storytella";
