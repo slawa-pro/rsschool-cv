@@ -22,7 +22,7 @@
   It Git (course),
   JavaScript 2.0;
 
-```2024:```
+```2024-2025:```
   The Rolling Scopes School (course),
   Front-End;
 
